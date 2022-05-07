@@ -43,6 +43,10 @@ val personImages = mapOf(
     "Larry Connor" to "https://upload.wikimedia.org/wikipedia/en/e/ed/Larry_Connor_Portrait.png",
     "Mark Pathy" to "https://www.spacelaunchschedule.com/wp-content/uploads/mark_pathy_image_20220327185208-240x300.png",
     "Eytan Stibbe" to "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Eitan_Stiva.jpg/440px-Eitan_Stiva.jpg",
+    "Kjell Lindgren" to "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kjell_Lindgren_in_EMU.jpg/440px-Kjell_Lindgren_in_EMU.jpg",
+    "Bob Hines" to "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bob_Hines_portrait.jpg/440px-Bob_Hines_portrait.jpg",
+    "Jessica Watkins" to "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Jessica_Watkins_official_portrait.jpg/440px-Jessica_Watkins_official_portrait.jpg",
+    "Samantha Cristoforetti" to "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Samantha_Cristoforetti_official_portrait_in_an_EMU_spacesuit.jpg/440px-Samantha_Cristoforetti_official_portrait_in_an_EMU_spacesuit.jpg",
 )
 
 val personBios = mapOf(
@@ -93,5 +97,8 @@ val personBios = mapOf(
     "Eytan Stibbe" to "Eytan Meir Stibbe is an Israeli former fighter pilot, fighter ace, businessman and private astronaut.\n" +
             "\n" +
             "As of November 2020, he has signed a contract with Axiom Space to fly a ten day mission to the International Space Station aboard a SpaceX Crew Dragon spacecraft on Axiom Mission 1, a private crewed orbital spaceflight.",
-
+    "Kjell Lindgren" to "Kjell Norwood Lindgren (born January 23, 1973) is an American astronaut who was selected in 2009. Lindgren was selected in June 2009 as a member of the NASA Astronaut Group 20. He launched to the International Space Station (ISS) as part of Expedition 44/45 on July 22, 2015.",
+    "Bob Hines" to "Robert Thomas Hines, Jr. (born January 11, 1975) is an American fighter pilot and NASA astronaut.",
+    "Jessica Watkins" to "Jessica Andrea Watkins (born May 14, 1988) is a NASA astronaut, geologist, aquanaut and former international rugby player. Watkins was announced as the first Black woman who will complete an International Space Station long-term mission in April 2022.",
+    "Samantha Cristoforetti" to "Samantha Cristoforetti, OMRI (Italian pronunciation: [saˈmanta kristofoˈretti]; born 26 April 1977) is an Italian European Space Agency astronaut, former Italian Air Force pilot and engineer. She holds the record for the longest uninterrupted spaceflight by a European astronaut (199 days, 16 hours),and until June 2017 held the record for the longest single space flight by a woman until this was broken by Peggy Whitson and later by Christina Koch. She is also the first Italian woman in space. She is scheduled to take command of ISS Expedition 68 in 2022.",
 )
